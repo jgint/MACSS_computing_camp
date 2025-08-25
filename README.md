@@ -1,2 +1,2 @@
-# MACSS_computing_camp
+# MACSS Computing Camp
 MACSS Computing Camp
